@@ -1,5 +1,5 @@
 # Challenge3 Data Science LATAM
-📌 Descripción del proyecto
+# Descripción del proyecto
 
 Este proyecto forma parte del Challenge de Data Science de Alura LATAM, cuyo objetivo es aplicar técnicas de análisis de datos y machine learning para predecir la cancelación de clientes (churn).
 
